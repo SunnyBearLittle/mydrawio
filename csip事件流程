@@ -103,7 +103,7 @@
             <mxPoint x="250" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QqNZRHUUIGRlBDbkEJo5-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="查询pid&lt;div&gt;（lfdi，sfdi）&lt;/div&gt;">
+        <mxCell id="QqNZRHUUIGRlBDbkEJo5-12" edge="1" parent="1" source="QqNZRHUUIGRlBDbkEJo5-7" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="QqNZRHUUIGRlBDbkEJo5-13" value="查询pid&lt;div&gt;（lfdi，sfdi）&lt;/div&gt;">
           <mxGeometry relative="1" width="80" x="-0.0035" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="315" y="387" as="sourcePoint" />
