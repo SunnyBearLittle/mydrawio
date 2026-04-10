@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="第 1 页" id="UL_H0DpmV4UkW5XAG7jM">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="下发事件" id="UL_H0DpmV4UkW5XAG7jM">
     <mxGraphModel dx="1414" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="CSIP客户端" vertex="1">
-          <mxGeometry height="1180" width="100" x="110" y="210" as="geometry" />
+          <mxGeometry height="1340" width="100" x="110" y="210" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-6" parent="QqNZRHUUIGRlBDbkEJo5-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="100" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-43" parent="QqNZRHUUIGRlBDbkEJo5-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="6vfjN3b3DLhUcDOzzqTn-2" parent="QqNZRHUUIGRlBDbkEJo5-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="45" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="云平台服务器" vertex="1">
           <mxGeometry height="1120" width="100" x="260" y="210" as="geometry" />
@@ -46,7 +49,7 @@
           <mxGeometry height="80" width="10" x="45" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="数据库" vertex="1">
-          <mxGeometry height="1140" width="100" x="410" y="210" as="geometry" />
+          <mxGeometry height="1360" width="100" x="410" y="210" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-13" parent="QqNZRHUUIGRlBDbkEJo5-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="160" as="geometry" />
@@ -57,20 +60,29 @@
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-37" parent="QqNZRHUUIGRlBDbkEJo5-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="860" as="geometry" />
         </mxCell>
+        <mxCell id="6vfjN3b3DLhUcDOzzqTn-5" parent="QqNZRHUUIGRlBDbkEJo5-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="45" y="1270" as="geometry" />
+        </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="通讯棒" vertex="1">
-          <mxGeometry height="510" width="100" x="710" y="210" as="geometry" />
+          <mxGeometry height="1350" width="100" x="710" y="210" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-21" parent="QqNZRHUUIGRlBDbkEJo5-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="110" width="10" x="45" y="430" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="消息队列" vertex="1">
-          <mxGeometry height="1140" width="100" x="550" y="210" as="geometry" />
+          <mxGeometry height="1370" width="100" x="550" y="210" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-34" parent="QqNZRHUUIGRlBDbkEJo5-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="740" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-40" parent="QqNZRHUUIGRlBDbkEJo5-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="6vfjN3b3DLhUcDOzzqTn-1" parent="QqNZRHUUIGRlBDbkEJo5-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="45" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="6vfjN3b3DLhUcDOzzqTn-4" parent="QqNZRHUUIGRlBDbkEJo5-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="45" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="QqNZRHUUIGRlBDbkEJo5-9" edge="1" parent="1" source="QqNZRHUUIGRlBDbkEJo5-6" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="QqNZRHUUIGRlBDbkEJo5-2" value="发送事件列表&lt;div&gt;（startTime,endTime）&lt;/div&gt;">
           <mxGeometry relative="1" width="80" x="-0.0035" as="geometry">
@@ -146,6 +158,27 @@
             <mxPoint x="165" y="1278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6vfjN3b3DLhUcDOzzqTn-7" edge="1" parent="1" source="6vfjN3b3DLhUcDOzzqTn-4" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="6vfjN3b3DLhUcDOzzqTn-5" value="更新数据库事件状态">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="500" y="1640" as="sourcePoint" />
+            <mxPoint x="580" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6vfjN3b3DLhUcDOzzqTn-8" edge="1" parent="1" source="6vfjN3b3DLhUcDOzzqTn-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="6vfjN3b3DLhUcDOzzqTn-2" value="发送开始、结束响应">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="330" y="1430" as="sourcePoint" />
+            <mxPoint x="410" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kH2nAwFaBLiOQlqu4dtY" name="事件响应">
+    <mxGraphModel dx="1414" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
