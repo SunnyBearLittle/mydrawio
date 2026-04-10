@@ -117,7 +117,7 @@
             <mxPoint x="315" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QqNZRHUUIGRlBDbkEJo5-27" edge="1" parent="1" source="QqNZRHUUIGRlBDbkEJo5-26" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="QqNZRHUUIGRlBDbkEJo5-21" value="cmdText">
+        <mxCell id="QqNZRHUUIGRlBDbkEJo5-27" edge="1" parent="1" source="QqNZRHUUIGRlBDbkEJo5-26" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="QqNZRHUUIGRlBDbkEJo5-21" value="发送事件命令到设备&lt;div&gt;cmdText&lt;/div&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="320" y="660" as="sourcePoint" />
