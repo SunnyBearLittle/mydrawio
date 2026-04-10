@@ -96,7 +96,7 @@
         <mxCell id="6vfjN3b3DLhUcDOzzqTn-4" parent="QqNZRHUUIGRlBDbkEJo5-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="1325" as="geometry" />
         </mxCell>
-        <mxCell id="QqNZRHUUIGRlBDbkEJo5-9" edge="1" parent="1" source="QqNZRHUUIGRlBDbkEJo5-6" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="QqNZRHUUIGRlBDbkEJo5-2" value="发送事件列表&lt;div&gt;（startTime,endTime）&lt;/div&gt;">
+        <mxCell id="QqNZRHUUIGRlBDbkEJo5-9" edge="1" parent="1" source="QqNZRHUUIGRlBDbkEJo5-6" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="QqNZRHUUIGRlBDbkEJo5-7" value="发送事件列表&lt;div&gt;（startTime,endTime）&lt;/div&gt;">
           <mxGeometry relative="1" width="80" x="-0.0035" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="170" y="350" as="sourcePoint" />
